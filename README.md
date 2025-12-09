@@ -16,7 +16,7 @@ It classifies faces in images or video stream as **Mask** or **No Mask**, useful
 ##4.Training & Metrics
 - Model: Custom CNN architecture for binary classification.  
 - Metrics: Accuracy, Precision, Recall, F1-score.  
-- Final test accuracy: **(இங்க உங்க actual accuracy value type பண்ணுங்க, example: 95%)**.
+
 
 ##5.How to Run
 1. Clone this repository  
